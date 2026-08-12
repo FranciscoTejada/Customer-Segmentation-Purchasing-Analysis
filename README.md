@@ -5,6 +5,11 @@ This project focuses on analyzing customer data from a marketing campaign to bet
 
 The project covers the complete data analysis process, including data cleaning, exploratory data analysis, data visualization, identification of key insights, and the development of business recommendations. The analysis was conducted using Google Sheets.
 
+## Tools
+
+- Google Sheets
+- Excel
+
 ## Dataset
 The dataset used in this project is the Customer Personality Analysis dataset, which contains customer demographic information, purchasing behavior, website activity, and responses to marketing campaigns. The dataset was obtained from Kaggle and analyzed using Google Sheets.
 
@@ -18,7 +23,7 @@ During the data cleaning process, I identified and corrected several data qualit
 
  I also standardized customer education and marital status categories to make the data more consistent and suitable for analysis.
 
- ## Exploratory Data Analisys
+ ## Exploratory Data Analysis
  After completing the data cleaning process, the dataset was ready for exploratory data analysis. The EDA focused on identifying patterns and trends within the customer data through descriptive analysis and data visualization.
 
  ## Key Insights
